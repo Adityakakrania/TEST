@@ -1,2 +1,5 @@
 # TEST
-MY FIRST GITHUB REPOSITORY.
+MY FIRST GITHUB REPOsitory
+for i in range(1,11):
+      print(i)
+      
